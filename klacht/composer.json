@@ -1,0 +1,16 @@
+{
+  "phpmailer/phpmailer": "^6.5",
+  "name": "vendor_name/src",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "senne",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "phpmailer/phpmailer": "^6.5"
+  }
+}
